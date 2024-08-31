@@ -1,2 +1,2 @@
 # AgroForecastApp
-AgroForecast é uma aplicação de previsão do tempo voltada para a agricultura, desenvolvida com Python e a biblioteca Tkinter. A aplicação permite que agricultores obtenham previsões diárias e horárias, consultem alertas meteorológicos e interajam com um chatbot especializado em questões agrícolas.
+AgroForecast é uma aplicação de previsão do tempo voltada para a agricultura, desenvolvida com Python e a biblioteca Tkinter. A aplicação permite que agricultores obtenham previsões diárias e horárias, consultem alertas meteorológicos e interajam com um chatbot pré programado em questões agrícolas. No entanto, podemos atualizar o sistema para uma inclusão de API de algumas inteligências artificiais como ChatGPT e Gimini para auxiliar na decisão.
